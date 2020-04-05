@@ -1,0 +1,50 @@
+body {
+  background-color: #d8ebb5;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #cd8d7b;
+  font-style: italic;
+  font-style: oblique;
+  font-family: cursive;
+}
+h2{
+  color: #cd8d7b;
+  font-style: italic;
+  font-style: oblique;
+  font-family: cursive;
+}
+h3{
+  color: #cd8d7b;
+  font-style: italic;
+  font-style: oblique;
+  font-family: cursive;
+}
+p
+{
+  color: #1b262c;
+  font-family: monospace;
+  font-size: 15px;
+}
+li{
+  color: #1b262c;
+  font-family: monospace;
+  font-size: 15px;
+}
+table{
+  color: #1b262c;
+  font-family: monospace;
+  font-size: 15px;
+}
+form{
+  color: #1b262c;
+  font-family: monospace;
+  font-size: 15px;
+}
